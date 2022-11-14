@@ -2,10 +2,9 @@ from PIL import Image
 import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
-from streamlit_option_menu import option_menu
-import pages.testpage2 as testpage2
 #import random as rnd
 #import time
+
 #time.sleep(2)
 
 # emojis here: webfx.com/tools/emoji-cheat-sheet/
